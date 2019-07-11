@@ -1,0 +1,40 @@
+vetor - lista
+vetor.pop adicionar
+vetor. splice apagar 
+
+vetor(x,y,z)
+x 
+****************************************************8
+
+laco bloco de codigo q vai se repetir
+- contador
+- condicao 
+- passo :algo q de false para q pare
+
+CONTADOR
+while(CONDICAO) {
+    PASSO
+}
+********************************************
+CONTADOR
+let contador = 0;
+while(contador<=9) {
+   contador = contador + 1
+}
+
+console.log('saiu do laco')
+********************************************
+let contador = 0;
+while(contador<=9) {
+    PASSO
+   contador = contador + 1
+}
+
+console.log('saiu do laco');
+************************************************
+let contador = 0;
+while(contador<=9) {
+   contador = contador + 1
+}
+
+console.log('saiu do laco')

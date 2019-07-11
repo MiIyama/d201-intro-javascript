@@ -11,10 +11,10 @@ let programador = confirm('Vc é programador');
 
 // console.log(vivo);
 
-if (programador) {
-   alert('Vc é um programador');
-}
-else if (Number(idade)>16 )
-else {
-    alert('que pena');
-}
+// if (programador) {
+//    alert('Vc é um programador');
+// }
+// else if (Number(idade)>16 )
+// else {
+//     alert('que pena');
+// }
